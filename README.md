@@ -12,7 +12,10 @@ I’m highly adaptable and dedicated to continuous learning, always seeking new 
 If you’re looking for a senior-level PHP developer with proven technical and leadership experience, I’d be excited to discuss how I can contribute to your project’s success.
 
 Key Highlights:
-1.8+ years of experience in PHP, MySQL, CodeIgniter (3/4 MVC), HTML, CSS, Bootstrap, JavaScript, jQuery, and Ajax.
-2.Extensive hands-on experience in web application development, third-party integrations, cURL, APIs, and payment gateways.
-3.Proven leadership in managing both technical teams and client communications, ensuring the successful delivery of projects.
-4.Co-founded Wolfox Services Pvt Ltd, leading growth in both software development and educational services.
+1. 8+ years of experience in PHP, MySQL, CodeIgniter (3/4 MVC), HTML, CSS, Bootstrap, JavaScript, jQuery, and Ajax.
+
+2. Extensive hands-on experience in web application development, third-party integrations, cURL, APIs, and payment gateways.
+
+3. Proven leadership in managing both technical teams and client communications, ensuring the successful delivery of projects.
+
+4. Co-founded Wolfox Services Pvt Ltd, leading growth in both software development and educational services.
