@@ -1,1 +1,140 @@
 
+
+ 
+Project Overview: Detailed Breakdown and Insights
+Name: Shridhar Khot
+Email: khotshri96@gmail.com
+Phone: +91-9657788775
+________________________________________
+Core PHP Projects
+1.	RepForce CRM (Glenmark, Lupin, Cipla & Biocon)
+June 2022
+RepForce is a Cloud CRM solution for the Life Sciences industry, helping companies optimize sales and enhance their bottom lines. It supports cross-device functionality on Windows, Android, and iOS.
+o	Tech: PHP, MySQL, Frontend - HTML, CSS, Bootstrap, JS, jQuery.
+
+2.	RepForce CRM - Pulse Pharma (Imacx CRM Portal)
+url- https://imacx.in/
+June 2024
+Imacx is a CRM and SFA portal for managing employees and pharmaceutical operations. It includes unique modules apart from basic SFA features.
+o	Tech: PHP, MySQL, HTML, CSS, Bootstrap, JS, jQuery, AJAX.
+
+________________________________________
+CodeIgniter 4 Projects
+1.	Jodidar Vivah - Matrimonial Web Application
+url- https://jodidarvivah.com/
+October 2023
+Jodidar Vivah is a matrimonial service platform serving 14,000 members in Maharashtra, featuring payment and messaging API integrations.
+o	Tech: PHP, MySQL, CodeIgniter 4 MVC, PayU Money Integration, PhpMailer Lib, Pagination, WhatsApp API.
+2.	welcab - NEMT Portal
+url- https://welcab.in/
+November 2022
+Welcab offers a non-emergency medical transportation service with a one-call transportation solution, including Google Maps integration.
+o	Tech: PHP, MySQL, CodeIgniter 4 MVC, Google Maps API Stack (Direction & Distance Matrix).
+
+
+3.	SwarajAgrotech E-commerce Platform
+url- swarajagrotech.com
+2023-24
+E-commerce platform allowing users to buy fresh vegetables and fruits with doorstep delivery.
+o	Tech: CodeIgniter 4, MySQL, PhonePe Gateway, WhatsApp API.
+
+4.	Anujay Arts E-commerce Platform
+2023-24
+E-commerce site offering customized products like printed mobile cases, keychains, and printing solutions.
+o	Tech: CodeIgniter 4, MySQL, PhonePe Gateway, WhatsApp API.
+
+5.	Varad Creation E-commerce Platform
+2023-24
+E-commerce platform providing designers with reusable design files (.psd format) to save time.
+o	Tech: CodeIgniter 4, MySQL, PhonePe Gateway, WhatsApp API.
+
+6.	Colorstrail
+url- https://colorstrails.com/
+2023-24
+E-commerce platform is California  based allow users from USA to buy handmade painting by owner Ramya Reddy.
+o	Tech: CodeIgniter 4, MySQL, PayPal Gateway, WhatsApp API.
+
+7.	HITHUB
+url- hithub.in
+Hithub is platform designed earn while chat , give reviews, watch some ads etc. Platform connect agency directly to customer where they want spend their actual marketing budget and customer get paid for review , suggestions and survey participation.
+o	Tech: CodeIgniter 4, MySQL, Flutter App API 
+
+________________________________________
+Laravel Projects
+1.	GPS Attendance Tracking Mobile App
+February 2024
+An application designed for salespersons to fill daily work reports with features like attendance tracking, payroll, leave, and GPS location. Admins receive reports and control over the portal.
+ 	Tech:: Laravel, MySQL, HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, Android WebView (Geolocation, Background Service).
+
+
+2.	FOX-POS Inventory POS System
+A point-of-sale (POS) inventory system that helps businesses manage inventory, sales, and orders.
+ 	Tech:: Laravel, MySQL, HTML, CSS, Bootstrap, JavaScript, jQuery, Highcharts for reports.
+
+3.	Gruh Shodh Portal
+A real estate property listing platform allowing users to search properties by location, budget, etc. Plans for rental property management in phase 2.
+ 	Tech:: Laravel MVC Framework, MySQL, HTML, CSS, Bootstrap, JavaScript, jQuery.
+
+
+CodeIgniter 3 Projects
+1.	LOMASEG
+url- http://lomaseg.com/
+April 2021
+Location-based market search engine and business directory, allowing businesses to manage listings for products and services with delivery options.
+o	Tech: CodeIgniter 3 MVC, MySQL, HTML, CSS, Bootstrap, JS, jQuery.
+
+2.	Clientel - Audiology Hospital Management System
+January 2020
+ERP system for managing clinics and hospitals, including modules for audiology reports, hearing aid data, and speech/language symbols integration.
+o	Tech: CodeIgniter 3 MVC, MySQL, PHP Mailer, Highcharts, AJAX, jQuery, Bootstrap, SMS & Email Gateway.
+
+3.	Mine Management System
+url- rocktechengineers.com
+May 2019
+ERP system for managing mining operations, payroll, production, and government-mandated escalation cost management.
+o	Tech: CodeIgniter 3 MVC, MySQL, Google Graph, Php Mailer, phpExcel, RTGS, PF, ESI, and Leave Reports.
+
+4.	Enterprise Management System
+January 2018
+Mini ERP for small businesses, featuring inventory, accounting, and sales management modules.
+o	Tech: CodeIgniter 3 MVC, MySQL, Google Graph, Php Mailer, phpExcel.
+
+5.	Payroll Management System
+November 2017
+Payroll system with thumb impression device integration and manual data uploads, offering accuracy in time behavior and cost-cutting results.
+o	Tech: CodeIgniter 3 MVC, MySQL, Google Graph, Php Mailer, phpExcel.
+________________________________________
+WordPress Projects
+1.	Masicon 2025 Conference Website
+url- https://masicon2025.com/
+September 2024
+A platform for managing the annual conference of the Maharashtra State Chapter of ASI, allowing doctors to book hotels and make conference payments.
+o	Tech: WordPress, PHP, MySQL, Razorpay Payment Gateway, Email Gateway.
+
+
+2.	PF Naturals
+E-commerce platform for selling natural products such as herbs and extracts.
+o	Tech: WordPress, WooCommerce.
+
+3.	Satvik Store
+E-commerce platform allowing users to buy products based on brands.
+o	Tech: WordPress, WooCommerce.
+________________________________________
+Python Projects
+1.	FleetEye
+April 2023
+Web app to manage driver activities and attendance, including drowsiness detection and location tracking for fleet management.
+o	Tech: Python, MySQL, Google Media Pipe, OpenCV.
+
+2.	Stress Free (PSQ10 & PSQ30 Stress Detection Portal)
+July 2023
+Portal for calculating stress levels using psychological algorithms, with appointment management features for neurologists and psychologists.
+o	Tech: Python, PSQ-10 & PSQ-30 algorithms, Google Translate, PayPal Payment Gateway.
+
+3.	Bullock Cart Racing Portal – Nikal
+url-http:/nikal.in
+December 2023
+Web portal for managing bullock cart racing events, providing updates, live race streaming, and event statistics.
+o	Tech: Python, MySQL, WhatsApp API, SMS API, Email Gateway.
+
+
