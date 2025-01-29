@@ -1,6 +1,6 @@
 # PORTFOLIO
 Link-
-Shridhar Khot – Co-Founder &amp; Software Engineer With 8+ years of expertise in PHP, MySQL, CodeIgniter, and web technologies, I co-founded Wolfox Services Pvt Ltd. I specialize in building scalable web applications, API integrations, and leading technical teams. I’m passionate about solving complex problems with innovative, custom solutions.
+Shridhar Khot – CTO & Software Engineer With 8+ years of expertise in PHP, MySQL, CodeIgniter, and web technologies, I co-founded Wolfox Services Pvt Ltd. I specialize in building scalable web applications, API integrations, and leading technical teams. I’m passionate about solving complex problems with innovative, custom solutions.
 
 I am an experienced software engineer and co-founder of Wolfox Services Pvt Ltd, with over 8 years of expertise in PHP, MySQL, CodeIgniter (3/4), HTML, CSS, JavaScript, and web technologies. I have a passion for building dynamic, scalable web applications and solving complex problems through innovative software solutions.
 
